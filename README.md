@@ -6,6 +6,15 @@ Windows 10/11 x64 · 便携版 · 解压即用
 
 **[下载最新版本](https://github.com/cc652464876/hongguo-desktop/releases/latest)** · [全部版本](https://github.com/cc652464876/hongguo-desktop/releases) · [问题反馈](https://github.com/cc652464876/hongguo-desktop-feedback/issues)
 
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://youtu.be/tJDsPxPQFvc"><img src="https://i.ytimg.com/vi/tJDsPxPQFvc/hqdefault.jpg" alt="播放红果桌面版操作展示视频" width="100%"></a><br><a href="https://youtu.be/tJDsPxPQFvc"><b>▶ 红果桌面版操作展示</b></a></td>
+<td width="50%" align="center"><a href="https://youtu.be/_b2HWrcXNf8"><img src="https://i.ytimg.com/vi/_b2HWrcXNf8/hqdefault.jpg" alt="播放红果桌面版主题展示视频" width="100%"></a><br><a href="https://youtu.be/_b2HWrcXNf8"><b>▶ 红果桌面版主题展示</b></a></td>
+</tr>
+</table>
+
+<sub>点击封面或标题，前往 YouTube 观看完整演示。</sub>
+
 ## 功能：找剧、追剧、互动，一站完成
 
 - **双端同步**：登录同一红果账号，同步观看历史、播放进度、收藏与点赞；手机看过，电脑接着看。
