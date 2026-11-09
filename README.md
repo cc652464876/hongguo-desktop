@@ -19,6 +19,10 @@ Windows 10/11 x64 · 便携版 · 解压即用
 
 > 双端同步需登录同一账号并开启「启用账号」；同步与互动以账号权限及上游接口实际返回为准。
 
+![播放器界面轮播展示](screenshots/player-interface.gif)
+
+<sub><b>播放器界面展示</b> · 选集、评论、弹幕与播放设置。</sub>
+
 <table>
 <tr>
 <td width="50%"><img src="screenshots/player-episodes.jpg" alt="独立播放器：播放画面与选集面板" width="100%"><br><sub><b>独立播放 · 同屏选集</b></sub></td>
@@ -83,6 +87,10 @@ Windows 10/11 x64 · 便携版 · 解压即用
 - **常青森林、GitHub、Gruvbox、Linear、龙虾、东京之夜、材质**
 - **Monokai、北欧、Notion、一、玫瑰松、日光、Codex**
 
+![21 个主题的浅色与深色切换展示](screenshots/themes-light-dark.gif)
+
+<sub><b>全部主题切换展示</b> · 21 个主题，42 组浅色 / 深色配色。</sub>
+
 ### 9 种动态背景特效
 
 **星空穿梭 · 圆圈粒子 · 群鸟飞翔 · 蝴蝶飞舞 · 烟花绽放 · 鼠标流体 · 粒子海浪 · 车流光轨 · 数字火焰**
@@ -104,8 +112,7 @@ Windows 10/11 x64 · 便携版 · 解压即用
 <td width="50%"><img src="screenshots/wallpaper-dark.jpg" alt="深色主题搭配自定义壁纸" width="100%"><br><sub><b>深色主题 + 自定义壁纸</b></sub></td>
 </tr>
 <tr>
-<td width="50%"><img src="screenshots/appearance-settings.jpg" alt="外观设置：主题、字体、图标、动效、壁纸" width="100%"><br><sub><b>配色 · 字体 · 图标 · 壁纸 · 动效</b></sub></td>
-<td width="50%"><img src="screenshots/themes-overview.svg" alt="配图预留：21 个主题的界面缩略图总览" width="100%"><br><sub><b>21 主题总览（配图待补）</b></sub></td>
+<td colspan="2"><img src="screenshots/appearance-settings.jpg" alt="外观设置：主题、字体、图标、动效、壁纸" width="100%"><br><sub><b>配色 · 字体 · 图标 · 壁纸 · 动效</b></sub></td>
 </tr>
 <tr>
 <td colspan="2"><img src="screenshots/effects-overview.svg" alt="配图预留：9 种动态背景特效，建议制作 3×3 对照图或动图" width="100%"><br><sub><b>9 种动态背景特效（配图待补）</b></sub></td>
