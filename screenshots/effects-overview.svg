@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">9 种动态背景特效（配图待补）</title>
+  <desc id="desc">星空 · 粒子 · 群鸟 · 蝴蝶 · 烟花 · 流体 · 海浪 · 光轨 · 火焰。建议使用 3 × 3 拼图或动图，标注每种特效名称</desc>
+  <rect width="1200" height="675" rx="20" fill="#131414"/>
+  <rect x="32" y="32" width="1136" height="611" rx="14" fill="none" stroke="#4b4540" stroke-width="2" stroke-dasharray="10 8"/>
+  <rect x="510" y="145" width="180" height="44" rx="22" fill="#35291d"/>
+  <g font-family="'Microsoft YaHei','Noto Sans CJK SC',sans-serif" text-anchor="middle">
+    <text x="600" y="175" font-size="22" fill="#ff9233">配图待补</text>
+    <text x="600" y="295" font-size="50" font-weight="700" fill="#f5f5f8">9 种动态背景特效</text>
+    <text x="600" y="365" font-size="25" fill="#c7c6c4">星空 · 粒子 · 群鸟 · 蝴蝶 · 烟花 · 流体 · 海浪 · 光轨 · 火焰</text>
+    <text x="600" y="435" font-size="23" fill="#94928e">建议使用 3 × 3 拼图或动图，标注每种特效名称</text>
+  </g>
+</svg>
