@@ -1,4 +1,12 @@
 {
   "schemaVersion": 1,
-  "announcements": []
+  "announcements": [
+    {
+      "id": "playback-stream-repair-20261111",
+      "title": "取流失败修复中...",
+      "summary": "取流失败修复中...",
+      "body": "取流失败修复中...",
+      "level": "warn"
+    }
+  ]
 }
