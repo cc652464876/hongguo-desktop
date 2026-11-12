@@ -2,11 +2,12 @@
   "announcements": [
     {
       "body": "红果桌面版 V3.2.4 已发布，修复 APP 视频取源失败、播放接口返回空响应的问题。\n\n本次采用开源仓库 zfdang/hongguo-open-player 的 Argus 551 / Ladon 播放鉴权技术，对应提交 3f687c5b07e04eb194141f8eeb78ded86d646024，并适配压缩请求和接口参数。感谢原作者与相关贡献者。\n\n技术来源：https://github.com/zfdang/hongguo-open-player\n\n已验证实网 1080p 取源与音视频短片段解码。请点击「查看详情」前往 GitHub 下载 V3.2.4，关闭旧版并完整解压新版后运行。更新前请备份「用户数据」，保留旧版目录。",
+      "expiresAt": "",
       "id": "release-3.2.4-playback-auth",
       "level": "info",
-      "maxVersion": "3.2.3",
+      "maxVersion": "",
       "popup": true,
-      "publishedAt": "2026-11-11T09:49:09Z",
+      "publishedAt": "2026-11-11T09:49:09.000Z",
       "source": "红果桌面版 · 版本更新",
       "summary": "V3.2.4 已修复取源失败，点击查看更新说明并下载新版。",
       "title": "V3.2.4 已发布：修复取源失败",
