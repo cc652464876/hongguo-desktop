@@ -2,6 +2,31 @@
   "schemaVersion": 1,
   "announcements": [
     {
+      "id": "release-3.2.7",
+      "title": "红果桌面版 V3.2.7 已发布",
+      "summary": "V3.2.7 已发布：界面细节小幅调整，可自行选择升级；不升级也不影响正常使用。",
+      "body": "红果桌面版 V3.2.7 已发布。\n\n本次主要对界面细节和交互体验进行了小幅调整。\n\n这是一次可选更新，您可以根据自己的需要选择是否升级。继续使用 V3.2.6 不影响正常使用，无需为了本次界面调整立即升级。\n\n如需升级，请点击「查看详情」下载完整程序包。更新前请关闭旧版并备份「用户数据」，保留旧版目录。",
+      "source": "红果桌面版 · 版本更新",
+      "level": "info",
+      "popup": true,
+      "publishedAt": "2026-11-17T18:10:28Z",
+      "url": "https://github.com/cc652464876/hongguo-desktop/releases/tag/v3.2.7",
+      "maxVersion": "3.2.6"
+    },
+    {
+      "id": "experience-3.2.7",
+      "title": "V3.2.7：为更稳定、更流畅的观看体验",
+      "summary": "围绕播放稳定与观看流畅，了解请求调度、匿名身份持久化、下一集预热和 FFmpeg beta 共享纹理播放的改进。",
+      "body": "V3.2.7 的重点，是提高日常观看体验。我们围绕两个方向做了改进：让播放更稳定，让观看更流畅。\n\n为了稳定，我们更新了匿名 APP 取源鉴权，加入匿名身份持久化和统一请求调度，完善片源失败恢复、会话隔离与退出清理。目标是减少重复注册、无效重试和旧任务干扰，让程序在网络波动、连续切集和后台下载时更有秩序地工作。\n\n为了流畅，我们重整了下一集准备和媒体对象交接：提前准备有效的地址、数据和首帧，已经就绪时直接接管；从推荐切到完整观看时，尽量保留当前画面、进度和播放状态。新增的 FFmpeg beta 则尝试通过 NVIDIA 硬解、超分/插帧与共享纹理显示，减少画面在 CPU 和 GPU 之间往返。\n\nFFmpeg Basic 保留现有兼容与增强能力；FFmpeg beta 提供新的 GPU 管线，当前仍有硬件、编码和效果范围限制。弹幕分页、时间轴、比例锁定、GPU 会话计数和多窗口设置等细节，也一并进行了修正。\n\n我们把这些努力、技术选择和实测结果写进了完整升级说明。部分场景仍需继续改进，高负载效果组合的表现也取决于片源与显卡；欢迎结合具体操作和片源反馈问题。\n\n点击下方「查看详情」阅读完整升级说明与技术备忘录。\n阅读地址：https://github.com/cc652464876/hongguo-desktop/blob/main/docs/v3.2.6-experience.md",
+      "source": "红果桌面版 · 升级说明",
+      "level": "info",
+      "popup": false,
+      "publishedAt": "2026-11-17T04:04:32Z",
+      "url": "https://github.com/cc652464876/hongguo-desktop/blob/main/docs/v3.2.6-experience.md",
+      "minVersion": "3.2.7",
+      "maxVersion": "3.2.7"
+    },
+    {
       "id": "experience-3.2.6",
       "title": "V3.2.6：为更稳定、更流畅的观看体验",
       "summary": "围绕播放稳定与观看流畅，了解请求调度、匿名身份持久化、下一集预热和 FFmpeg beta 共享纹理播放的改进。",
@@ -10,7 +35,8 @@
       "level": "info",
       "popup": false,
       "publishedAt": "2026-11-17T04:04:32Z",
-      "url": "https://github.com/cc652464876/hongguo-desktop/blob/main/docs/v3.2.6-experience.md"
+      "url": "https://github.com/cc652464876/hongguo-desktop/blob/main/docs/v3.2.6-experience.md",
+      "maxVersion": "3.2.6"
     },
     {
       "id": "release-3.2.6",
